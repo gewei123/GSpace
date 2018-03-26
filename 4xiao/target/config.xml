@@ -1,0 +1,18 @@
+<root>
+	<src>	
+		<srcPath>C:\Users\root\Desktop\测试文件</srcPath><!-- 源文件夹绝对路径 -->
+	</src>
+	<folder>	
+		<keyword>我的</keyword><!-- 关键字 -->
+		<location>C:\Users\root\Desktop\我的</location><!-- 存放的位置 -->
+	</folder>
+	<folder>	
+		<keyword>他的</keyword><!-- 关键字 -->
+		<location>C:\Users\root\Desktop\他的</location><!-- 存放的位置 -->
+	</folder>
+	
+	<others>
+		<othersPath>C:\Users\root\Desktop\其他的</othersPath>
+	</others>
+		
+</root>
